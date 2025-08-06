@@ -34,8 +34,8 @@ A modern web application that analyzes car listings using AI to determine if the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DealAnalyzer.git
-   cd DealAnalyzer
+   git clone https://github.com/benpurles/cardealanalyzer.git
+   cd cardealanalyzer
    ```
 
 2. **Install frontend dependencies**
